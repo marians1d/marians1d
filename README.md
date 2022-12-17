@@ -8,6 +8,7 @@ My latest stack:
 - 👀 I’m interested in Programing, computer science
 - 🌱 I’m currently learning Pithon, NextJS, React Native, VueJS
 - 📫 You can [reach me](https://www.linkedin.com/in/mariyan-damyanov/) on LinkedIn
+- 💻 Working @ [IT Business Projects](https://www.linkedin.com/company/itbpbg/)
 
 <!---
 marians1d/marians1d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
