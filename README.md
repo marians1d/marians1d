@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @marians1d
+👋 Hello, I’m Mariyan
+
+I'm a Junior Software Developr based in Kazanlak, Bulgaria 🇧🇬
+
+My latest stack:
+ Vue |  Nuxt |  React |  SASS |  Angular |  Node |  JS |  TS | SQL | MongoDB
+
 - 👀 I’m interested in Programing, computer science
-- 🌱 I’m currently learning JS Back-end and Angular
-- 💞️ I’m looking to collaborate on interesting and chalenging projects
-- 📫 How to reach me marians1md@gmail.com
+- 🌱 I’m currently learning Pithon, NextJS, React Native, VueJS
+- 📫 You can [reach me](https://www.linkedin.com/in/mariyan-damyanov/) on LinkedIn
 
 <!---
 marians1d/marians1d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
