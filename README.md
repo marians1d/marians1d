@@ -6,7 +6,7 @@ My latest stack:
  Vue |  Nuxt |  React |  SASS |  Angular |  Node |  JS |  TS | SQL | MongoDB
 
 - 👀 I’m interested in Programing, computer science
-- 🌱 I’m currently learning Pithon, NextJS, React Native, VueJS
+- 🌱 I’m currently learning Python, NextJS, React Native, VueJS
 - 📫 You can [reach me](https://www.linkedin.com/in/mariyan-damyanov/) on LinkedIn
 - 💻 Working @ [IT Business Projects](https://www.linkedin.com/company/itbpbg/)
 
