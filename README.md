@@ -4,7 +4,7 @@
 I'm a Full Stack Software Developer based in Kazanlak, Bulgaria 🇧🇬
 
 - 👀 I’m interested in Programing, technology and science
-- 🌱 I’m currently learning DJango
+- 🌱 I’m currently learning DJango and Spanish
 - 📫 You can [reach me](https://www.linkedin.com/in/mariyan-damyanov/) on LinkedIn
 - 💻 Working @ [IT Business Projects](https://www.linkedin.com/company/itbpbg/)
 
