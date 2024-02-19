@@ -3,8 +3,8 @@
 ### About me:
 I'm a Full Stack Software Developer based in Kazanlak, Bulgaria 🇧🇬
 
-- 👀 I’m interested in Programing, computer science
-- 🌱 I’m currently learning Python Web, NextJS, React Native
+- 👀 I’m interested in Programing, technology and science
+- 🌱 I’m currently learning DJango
 - 📫 You can [reach me](https://www.linkedin.com/in/mariyan-damyanov/) on LinkedIn
 - 💻 Working @ [IT Business Projects](https://www.linkedin.com/company/itbpbg/)
 
